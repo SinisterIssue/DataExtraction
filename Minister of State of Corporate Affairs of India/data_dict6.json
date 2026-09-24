@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Sh",
+        "fullName": "D Bandopadhyay",
+        "designation": "Regional Director",
+        "contactDetails": "033-22870383, 033-22870958, rd.east@mca.gov.in",
+        "fullAddress": "Nizam Place, || MSO Building, 3rd Floor, 234/4,A.J.C. Bose Road,Kolkata-700020, West Bengal",
+        "roc": "Kolkata, Jharkhand(Ranchi), Patna, Cuttack",
+        "summary": "D Bandopadhyay is the Regional Director of Kolkata, Jharkhand(Ranchi), Patna, Cuttack."
+    },
+    {
+        "title": "Dr.",
+        "fullName": "K. Thirumalaimuthu",
+        "designation": "Regional Director",
+        "contactDetails": "044-28271737, 044-28280436, rd.south@mca.gov.in",
+        "fullAddress": "5th Floor, Shastri Bhavan, 26 Haddows Road,Chennai-600006, Tamil Nadu",
+        "roc": "Chennai, Ernakulam, Pondicherry, Coimbatore, Andaman",
+        "summary": "K. Thirumalaimuthu is the Regional Director of Chennai, Ernakulam, Pondicherry, Coimbatore, Andaman."
+    },
+    {
+        "title": "Dr.",
+        "fullName": "Raj Singh",
+        "designation": "Regional Director",
+        "contactDetails": "011-24366038, 011-24366039, rd.north@mca.gov.in",
+        "fullAddress": "B-2 wing, 2nd Floor, Paryavaran Bhawan, CGO Complex,New Delhi-110003, Delhi.",
+        "roc": "New Delhi & Haryana, Chandigarh, Himachal, Uttarakhand, Kanpur, Jammu, kashmir",
+        "summary": "Raj Singh is the Regional Director of New Delhi & Haryana, Chandigarh, Himachal, Uttarakhand, Kanpur, Jammu, kashmir."
+    },
+    {
+        "title": "Mr.",
+        "fullName": "M P Shah",
+        "designation": "Regional Director",
+        "contactDetails": "022-22817259, 22811493, 022-22812389, rd.west@mca.gov.in",
+        "fullAddress": "Everest 5th Floor, 100 Marine Drive,Mumbai-400002, Maharashtra.",
+        "roc": "Mumbai, Pune, Goa, Daman & Diu",
+        "summary": "M P Shah is the Regional Director of Mumbai, Pune, Goa, Daman & Diu."
+    },
+    {
+        "title": "Sh",
+        "fullName": "L.R. Meena",
+        "designation": "Regional Director",
+        "contactDetails": "079-27437597, 079-27438371, rd.northwest@mca.gov.in",
+        "fullAddress": "ROC Bhavan, Oppo Rupal Park Society, Behind Ankur Bus Stop, Naranpura,Ahmedabad-380013, Gujarat.",
+        "roc": "Ahmedabad, Jaipur, Gwalior, Chhattisgarh(Bilaspur)",
+        "summary": "L.R. Meena is the Regional Director of Ahmedabad, Jaipur, Gwalior, Chhattisgarh(Bilaspur)."
+    },
+    {
+        "title": "Mr.",
+        "fullName": "B Mohanty",
+        "designation": "Regional Director",
+        "contactDetails": "040 29804127, 29803127(Off), rd.ser@mca.gov.in",
+        "fullAddress": "3rd Floor, Corporate Bhavan, Bandlaguda, Nagole, Tattiannaram Village, Hayat Nagar Mandal, Ranga Reddy District,Hyderabad-500068, Telangana",
+        "roc": "Hyderabad, Bangalore, Vijayawada",
+        "summary": "B Mohanty is the Regional Director of Hyderabad, Bangalore, Vijayawada."
+    },
+    {
+        "title": "Sh",
+        "fullName": "M.R. Bhat",
+        "designation": "Regional Director",
+        "contactDetails": "(0361)2974432, (0361)2974433, 0364-2222519, rd.northeast@mca.gov.in",
+        "fullAddress": "5th Floor, Prithvi Planet, Behind Hanuman Mandir, Ulubari, G.S. Road,Guwahati -781007, Assam AND  Liaison office of Regional Director (NER)/Registrar of Companies (NER)/OL-Guwahati Morello Building , Ground Floor, Kachari Road,Shillong \u2013793001, Meghalaya.",
+        "roc": "Guwahati, Shillong",
+        "summary": "M.R. Bhat is the Regional Director of Guwahati, Shillong."
+    }
+]

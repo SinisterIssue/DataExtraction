@@ -1,0 +1,32 @@
+[
+    {
+        "fullName": "Nagaoka Keiko",
+        "image": "https://www.mext.go.jp/en/content/20220812-mxt_dev01-200000015_1.jpg",
+        "careerInfoDesignation": "Minister",
+        "summary": "Nagaoka Keiko is the Minister of Ministry of Education, Culture, Sports, Science and Technology."
+    },
+    {
+        "fullName": "Yana Kazuo",
+        "image": "https://www.mext.go.jp/en/content/000187531.jpg",
+        "careerInfoDesignation": "State Minister",
+        "summary": "Yana Kazuo is the State Minister of Ministry of Education, Culture, Sports, Science and Technology."
+    },
+    {
+        "fullName": "Ide Yosei",
+        "image": "https://www.mext.go.jp/en/content/000187532.jpg",
+        "careerInfoDesignation": "State Minister",
+        "summary": "Ide Yosei is the State Minister of Ministry of Education, Culture, Sports, Science and Technology."
+    },
+    {
+        "fullName": "Ito Takae",
+        "image": "https://www.mext.go.jp/en/content/000187533.jpg",
+        "careerInfoDesignation": "Parliamentary Vice-Minister",
+        "summary": "Ito Takae is the Parliamentary Vice-Minister of Ministry of Education, Culture, Sports, Science and Technology."
+    },
+    {
+        "fullName": "Yamamoto Sakon",
+        "image": "https://www.mext.go.jp/en/content/000187538.jpg",
+        "careerInfoDesignation": "Parliamentary Vice-Minister",
+        "summary": "Yamamoto Sakon is the Parliamentary Vice-Minister of Ministry of Education, Culture, Sports, Science and Technology."
+    }
+]

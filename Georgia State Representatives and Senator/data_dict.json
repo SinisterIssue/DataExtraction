@@ -1,0 +1,23 @@
+[
+    {
+        "fullName": "Jon Ossoff",
+        "title": "Sen.",
+        "careerInfoDesignation": "Senator for Georgia",
+        "careerInfoEndDate": "Jan 3, 2027",
+        "website": "https://www.ossoff.senate.gov/",
+        "twitterUrl": "http://twitter.com/SenOssoff",
+        "referenceUrls": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=O000174; http://www.opensecrets.org/politicians/summary.php?cid=N00040675; ",
+        "summary": "Ossoff is the senior senator from Georgia and is a Democrat. He has served since Jan 20, 2021. Ossoff is next up for reelection in 2026 and serves until Jan 3, 2027."
+    },
+    {
+        "fullName": "Raphael Warnock",
+        "title": "Sen.",
+        "careerInfoDesignation": "Senator for Georgia",
+        "image": "https://www.govtrack.us/static/legislator-photos/456858-200px.jpeg",
+        "careerInfoEndDate": "Jan 3, 2023",
+        "website": "https://www.warnock.senate.gov/",
+        "twitterUrl": "http://twitter.com/SenatorWarnock",
+        "referenceUrls": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=W000790; http://www.opensecrets.org/politicians/summary.php?cid=N00046489; ",
+        "summary": "Warnock is the junior senator from Georgia and is a Democrat. He has served since Jan 20, 2021. Warnock is next up for reelection in 2022 and serves until Jan 3, 2023."
+    }
+]

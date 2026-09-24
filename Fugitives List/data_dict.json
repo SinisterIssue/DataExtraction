@@ -1,0 +1,71 @@
+[
+    {
+        "fullName": "S. ABERCROMBIE",
+        "crime": "Theft and forgery",
+        "careerInfoDesignation": "lawyer",
+        "age": "43 years",
+        "height": "6'",
+        "weight": "160 pounds",
+        "race": "white",
+        "complexion": "dark",
+        "eyes": "brown",
+        "hair": "black",
+        "additionalInfo": "Right hand withered, writes with left hand",
+        "summary": "S. ABERCROMBIE is present in the 1900 List of Fugitives from Justice in Archer County, Texas."
+    },
+    {
+        "fullName": "T. P. ALLEN",
+        "crime": "Theft",
+        "careerInfoDesignation": "laborer",
+        "age": "30 years",
+        "height": "5' 9\"",
+        "weight": "170 pounds",
+        "race": "white",
+        "complexion": "sandy",
+        "eyes": "gray",
+        "hair": "red",
+        "additionalInfo": "Walks on toes of right foot  Left leg two inches shorter than his right  Reward $25",
+        "summary": "T. P. ALLEN is present in the 1900 List of Fugitives from Justice in Archer County, Texas."
+    },
+    {
+        "fullName": "W. W. PARKS",
+        "crime": "Murder",
+        "careerInfoDesignation": "farmer",
+        "age": "55 years",
+        "height": "5' 10\"",
+        "weight": "160 pounds",
+        "race": "white",
+        "complexion": "light",
+        "eyes": "gray",
+        "hair": "black",
+        "additionalInfo": "Chews tobacco and drinks whiskey to excess when he can get it  Quick in speech and motion",
+        "summary": "W. W. PARKS is present in the 1900 List of Fugitives from Justice in Archer County, Texas."
+    },
+    {
+        "fullName": "JESSE RAY",
+        "crime": "Theft",
+        "careerInfoDesignation": "cowboy",
+        "age": "30 years",
+        "height": "5' 8\"",
+        "weight": "140 pounds",
+        "complexion": "light",
+        "eyes": "gray",
+        "hair": "auburn",
+        "additionalInfo": "Quick in motion, also in speech",
+        "summary": "JESSE RAY is present in the 1900 List of Fugitives from Justice in Archer County, Texas."
+    },
+    {
+        "fullName": "JOE. HENRY TUCKER",
+        "crime": "Theft",
+        "careerInfoDesignation": "cowboy",
+        "age": "27 years",
+        "height": "5' 9\"",
+        "weight": "155 pounds",
+        "race": "black",
+        "complexion": "black",
+        "eyes": "dark",
+        "hair": "auburn",
+        "additionalInfo": "Right arm been disabled by pistol shot, and carries it by side",
+        "summary": "JOE. HENRY TUCKER is present in the 1900 List of Fugitives from Justice in Archer County, Texas."
+    }
+]

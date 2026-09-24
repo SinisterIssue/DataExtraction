@@ -1,0 +1,406 @@
+[
+    {
+        "fullName": "Rajesh Verma",
+        "title": "Sh.",
+        "designation": "Secretary",
+        "image": "https://www.mca.gov.in/content/dam/mca/images/RajeshVermaImg.jpg",
+        "summary": "Rajesh Verma is the Secretary"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "G. Swaminathan",
+        "designation": "PPS to Secretary",
+        "contactDetails": "011-23382324,011-23384257",
+        "emails": "secy.mca@nic.in",
+        "summary": "G. Swaminathan is the PPS to Secretary"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "E. Natarajan",
+        "designation": "Consultant",
+        "contactDetails": "011-23382324,011-23384257",
+        "emails": "secy.mca@nic.in",
+        "summary": "E. Natarajan is the Consultant"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Sanjay Kumar",
+        "designation": "AS & FA",
+        "contactDetails": "011-23381704",
+        "emails": "asfamost@nic.in",
+        "summary": "Sanjay Kumar is the AS & FA"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Manoj Pandey",
+        "designation": "Joint Secretary",
+        "contactDetails": " 011-23389088",
+        "emails": " jsmp-mca@gov. in",
+        "summary": "Manoj Pandey is the Joint Secretary"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Inder Deep Singh Dhariwal",
+        "designation": "Joint Secretary",
+        "contactDetails": "011-23383345",
+        "emails": "dhariwalids@cag.gov.in",
+        "summary": "Inder Deep Singh Dhariwal is the Joint Secretary"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "Anita Shah Akella",
+        "designation": "Joint Secretary",
+        "contactDetails": " 011-23074056,011-23384380, ",
+        "emails": "js-asa @gov.in",
+        "summary": "Anita Shah Akella is the Joint Secretary"
+    },
+    {
+        "title": "Smt.",
+        "fullName": "Nandita Mishra",
+        "designation": "Economic Advisor",
+        "contactDetails": "011-24698970",
+        "emails": " nandita.mishra@nic.in",
+        "summary": "Nandita Mishra is the Economic Advisor"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Sidhil Sasi",
+        "designation": "Deputy Director General",
+        "contactDetails": "011-23350977",
+        "emails": "sidhil.sasi@nic.in",
+        "summary": "Sidhil Sasi is the Deputy Director General"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Sanjay Shorey",
+        "designation": "Director (Legal & Prosecution)",
+        "contactDetails": "011-23070326",
+        "emails": "shorey.sanjay@gov.in",
+        "summary": "Sanjay Shorey is the Director (Legal & Prosecution)"
+    },
+    {
+        "title": "Dr.",
+        "fullName": "Anuradha Guru",
+        "designation": "Economic Adviser",
+        "contactDetails": "011-23382386",
+        "emails": "anu_guru@nic.in",
+        "summary": "Anuradha Guru is the Economic Adviser"
+    },
+    {
+        "title": "Dr",
+        "fullName": "Balmiki Prasad",
+        "designation": "Director",
+        "emails": "director-mca@gov.in",
+        "summary": "Balmiki Prasad is the Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Amar Singh Meena",
+        "designation": "Director",
+        "contactDetails": "011-23384470",
+        "emails": "amarsingh.meena@gov.in",
+        "summary": "Amar Singh Meena is the Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Rakesh Tyagi",
+        "designation": "Director",
+        "contactDetails": "011-23389403",
+        "emails": "rakesh.tyagi@mca.gov.in",
+        "summary": "Rakesh Tyagi is the Director"
+    },
+    {
+        "title": "Dr.",
+        "fullName": "Abhijit Phukon",
+        "designation": "Director",
+        "contactDetails": "011-23384566",
+        "emails": "abhijit.phukon@nic.in",
+        "summary": "Abhijit Phukon is the Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Sanjay Jain",
+        "designation": "Director",
+        "contactDetails": "011-23389227",
+        "emails": "sanjay2jain@nic.in",
+        "summary": "Sanjay Jain is the Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "N.K. Dua",
+        "designation": "Joint Director",
+        "contactDetails": "011-23070954",
+        "emails": "narendra.Dua@mca.gov.in",
+        "summary": "N.K. Dua is the Joint Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "B. Srikumar",
+        "designation": "Joint Director",
+        "emails": "srikumar.b@gov.in",
+        "summary": "B. Srikumar is the Joint Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Satyajit Roul",
+        "designation": "Joint Director",
+        "contactDetails": "011-23382260",
+        "emails": "satyajit.roul@gov.in",
+        "summary": "Satyajit Roul is the Joint Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Atma Sah",
+        "designation": "Joint Director",
+        "contactDetails": " 011-23386065",
+        "emails": "atma.sah@mca.gov.in",
+        "summary": "Atma Sah is the Joint Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "V.M. Prasanth",
+        "designation": "Joint Director",
+        "summary": "V.M. Prasanth is the Joint Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Nilratan Das",
+        "designation": "Deputy Secretary",
+        "contactDetails": " 011-23389204",
+        "summary": "Nilratan Das is the Deputy Secretary"
+    },
+    {
+        "title": "Sh",
+        "fullName": "S K Vashishtha",
+        "designation": "Deputy Secretary",
+        "contactDetails": " 011-23384502",
+        "emails": "s.vashishtha@mca .gov.in",
+        "summary": "S K Vashishtha is the Deputy Secretary"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Tharvinder Singh",
+        "designation": "Deputy Secretary",
+        "contactDetails": " 011-23389782",
+        "emails": "tharvinder-upsc@gov. in",
+        "summary": "Tharvinder Singh is the Deputy Secretary"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Ashok Kumar Vijay",
+        "designation": "Deputy Secretary",
+        "contactDetails": " 011-23389622",
+        "emails": "ashok.vijay@gov. in",
+        "summary": "Ashok Kumar Vijay is the Deputy Secretary"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "Arti Sharma",
+        "designation": "Deputy Secretary",
+        "emails": "arti.lal@ias.nic. in",
+        "summary": "Arti Sharma is the Deputy Secretary"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Chandan Kumar",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23387263",
+        "emails": "chandan.kumar@mca .gov.in",
+        "summary": "Chandan Kumar is the Deputy Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Shobhit Srivastava",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23070216",
+        "emails": "Shobhit.Srivastava@mca.gov.in",
+        "summary": "Shobhit Srivastava is the Deputy Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "E. Nagachandaran",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23360981",
+        "summary": "E. Nagachandaran is the Deputy Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Deepak Persoya",
+        "designation": "Deputy Director",
+        "emails": "deepak.persoya@mca.gov.in",
+        "summary": "Deepak Persoya is the Deputy Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Saurabh Gautam",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23389745",
+        "emails": "saurabh.gautam@mca.gov.in",
+        "summary": "Saurabh Gautam is the Deputy Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Naikwadi Parvez Fattulal",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23385381",
+        "emails": "parvez.naikwadi@mca.gov.in",
+        "summary": "Naikwadi Parvez Fattulal is the Deputy Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Sanjay Verma",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23389782",
+        "summary": "Sanjay Verma is the Deputy Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Vivek",
+        "designation": "Deputy Director",
+        "emails": "vivek.meena@mca.gov.in",
+        "summary": "Vivek is the Deputy Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "K.M.S Narayanan",
+        "designation": "Deputy Director",
+        "contactDetails": " 011-23387263",
+        "emails": "km.narayanan@mca.gov.in",
+        "summary": "K.M.S Narayanan is the Deputy Director"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "Anannya Saikia",
+        "designation": "Deputy Director",
+        "emails": "Anannya.Saikia@mca.gov.in",
+        "summary": "Anannya Saikia is the Deputy Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Riazul Haque",
+        "designation": "Under Secretary",
+        "contactDetails": " 011-23381349",
+        "emails": "Riazul.haque@mca.gov.in",
+        "summary": "Riazul Haque is the Under Secretary"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Akhilesh Kumar",
+        "designation": "Under Secretary",
+        "contactDetails": " 011-23387939",
+        "summary": "Akhilesh Kumar is the Under Secretary"
+    },
+    {
+        "title": "Mr.",
+        "fullName": "Shailendra Mohan Pathak",
+        "designation": "Under Secretary",
+        "contactDetails": " 011-23070567",
+        "emails": "smpathak.mp@nic.in",
+        "summary": "Shailendra Mohan Pathak is the Under Secretary"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "S. Padma Roy",
+        "designation": "Under Secretary",
+        "contactDetails": " 011-23384479",
+        "summary": "S. Padma Roy is the Under Secretary"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Vedant Ojha",
+        "designation": "Assistant Director",
+        "contactDetails": " 011-23380270",
+        "emails": "vedant.ojha@mca.gov.in",
+        "summary": "Vedant Ojha is the Assistant Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Rajbir Singh",
+        "designation": "Assistant Director",
+        "contactDetails": " 011-23387409",
+        "summary": "Rajbir Singh is the Assistant Director"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "Sunidhi Misra",
+        "designation": "Assistant Director",
+        "emails": "sunidhi.misra@gov. in",
+        "summary": "Sunidhi Misra is the Assistant Director"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Nirnay Pratap Singh",
+        "designation": "Assistant Director",
+        "contactDetails": " 011-23360981",
+        "emails": "nirnay.pratap@gov. in",
+        "summary": "Nirnay Pratap Singh is the Assistant Director"
+    },
+    {
+        "title": "Ashish",
+        "fullName": "Yadav",
+        "designation": "Assistant Director",
+        "contactDetails": " 011-23350980",
+        "emails": "ashish.yadav13@nic.in",
+        "summary": "Yadav is the Assistant Director"
+    },
+    {
+        "title": "Md.",
+        "fullName": "Alam Ansari",
+        "designation": "Assistant Director",
+        "contactDetails": " 011-24698971",
+        "emails": "alam.ansari44@gov.in",
+        "summary": "Alam Ansari is the Assistant Director"
+    },
+    {
+        "title": "Shri",
+        "fullName": "Deepak Singh",
+        "designation": "Assistant Director",
+        "contactDetails": " 011-24968971",
+        "emails": "deepak.3192@gov.in",
+        "summary": "Deepak Singh is the Assistant Director"
+    },
+    {
+        "title": "Shri",
+        "fullName": "Aeshala Vamshi Krishna",
+        "designation": "Assistant Director",
+        "emails": "aeshala.krishna@mca.gov.in",
+        "summary": "Aeshala Vamshi Krishna is the Assistant Director"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "Ram Dulari",
+        "designation": "PAO/Sr. AO",
+        "contactDetails": " 011-24360660",
+        "emails": "pao@nic.in",
+        "summary": "Ram Dulari is the PAO/Sr. AO"
+    },
+    {
+        "title": "Sh.",
+        "fullName": "Kulveer Singh",
+        "designation": "AAO",
+        "contactDetails": " 011-24361569",
+        "summary": "Kulveer Singh is the AAO"
+    },
+    {
+        "title": "Shri",
+        "fullName": "Dinesh Kumar",
+        "designation": "AAO",
+        "contactDetails": " 011-24361569",
+        "summary": "Dinesh Kumar is the AAO"
+    },
+    {
+        "title": "Himani",
+        "fullName": "Sharma",
+        "designation": "Assistant Director, CSR Cell,",
+        "emails": "himani.sharma25@gov.in",
+        "summary": "Sharma is the Assistant Director, CSR Cell,"
+    },
+    {
+        "title": "Rajan",
+        "fullName": "Jain",
+        "designation": "Deputy Secretary(IBC)",
+        "contactDetails": " 011-23071456",
+        "emails": "rajan1.jain@gov.in",
+        "summary": "Jain is the Deputy Secretary(IBC)"
+    }
+]

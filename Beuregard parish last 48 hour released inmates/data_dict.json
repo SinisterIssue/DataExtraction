@@ -1,0 +1,74 @@
+[
+    {
+        "fullName": "CECILIA LYNN BRISTER",
+        "firstName": "CECILIA",
+        "middleName": "LYNN",
+        "lastName": "BRISTER",
+        "charges": "Possession of CDS schedule II, Use or possess to use Drug Paraphenalia",
+        "gender": "F",
+        "race": "WHITE",
+        "importantDates": "Booking Date:23/06/2022, Release Date:23/06/2022",
+        "additionalInfo": "Booking #:220600, Arresting Agency:BEAUREGARD SHERIFFS DEPARTMENT, Bond:$12,000.00,Note: The charges and bail amounts may change after court appearances and may not be current. Bond companies and persons wishing to post bail should contact the Detention Center staff at 337-460-5520 for correct bail amount, charges and case numbers.",
+        "summary": "CECILIA LYNN BRISTER is charged with Possession of CDS schedule II, Use or possess to use Drug Paraphenalia and a bond is set for $12,000.00"
+    },
+    {
+        "fullName": "JAMES TIMOTHY FREENEY",
+        "firstName": "JAMES",
+        "middleName": "TIMOTHY",
+        "lastName": "FREENEY",
+        "charges": "Driving While Intoxicated, Flight from an officer, Expired License Plate",
+        "gender": "M",
+        "race": "BLACK",
+        "importantDates": "Booking Date:21/06/2022, Release Date:23/06/2022",
+        "additionalInfo": "Booking #:220592, Arresting Agency:DERIDDER POLICE DEPARTMENT, Bond:$1,000.00,Note: The charges and bail amounts may change after court appearances and may not be current. Bond companies and persons wishing to post bail should contact the Detention Center staff at 337-460-5520 for correct bail amount, charges and case numbers.",
+        "summary": "JAMES TIMOTHY FREENEY is charged with Driving While Intoxicated, Flight from an officer, Expired License Plate and a bond is set for $1,000.00"
+    },
+    {
+        "fullName": "JAMES LEE ROBERTS",
+        "firstName": "JAMES",
+        "middleName": "LEE",
+        "lastName": "ROBERTS",
+        "charges": "Probation Violation, PROBATION REVOKED",
+        "gender": "M",
+        "race": "WHITE",
+        "importantDates": "Booking Date:04/03/2022, Release Date:23/06/2022",
+        "additionalInfo": "Booking #:220220, Arresting Agency:DERIDDER POLICE DEPARTMENT, Bond:$0.00,Note: The charges and bail amounts may change after court appearances and may not be current. Bond companies and persons wishing to post bail should contact the Detention Center staff at 337-460-5520 for correct bail amount, charges and case numbers.",
+        "summary": "JAMES LEE ROBERTS is charged with Probation Violation, PROBATION REVOKED and a bond is set for $0.00"
+    },
+    {
+        "fullName": "CHRISTOPHER COERTE VOORHIES",
+        "firstName": "CHRISTOPHER",
+        "middleName": "COERTE",
+        "lastName": "VOORHIES",
+        "charges": "Domestic abuse battery",
+        "gender": "M",
+        "race": "WHITE",
+        "importantDates": "Booking Date:22/06/2022, Release Date:23/06/2022",
+        "additionalInfo": "Booking #:220598, Arresting Agency:BEAUREGARD SHERIFFS DEPARTMENT, Bond:$5,000.00,Note: The charges and bail amounts may change after court appearances and may not be current. Bond companies and persons wishing to post bail should contact the Detention Center staff at 337-460-5520 for correct bail amount, charges and case numbers.",
+        "summary": "CHRISTOPHER COERTE VOORHIES is charged with Domestic abuse battery and a bond is set for $5,000.00"
+    },
+    {
+        "fullName": "LAMARR JAMINE CASTILLE",
+        "firstName": "LAMARR",
+        "middleName": "JAMINE",
+        "lastName": "CASTILLE",
+        "charges": "COMMENCEMENT OF TRIAL",
+        "gender": "M",
+        "race": "BLACK",
+        "importantDates": "Booking Date:14/06/2022, Release Date:23/06/2022",
+        "additionalInfo": "Booking #:220564, Arresting Agency:BEAUREGARD SHERIFFS DEPARTMENT, Bond:$0.00,Note: The charges and bail amounts may change after court appearances and may not be current. Bond companies and persons wishing to post bail should contact the Detention Center staff at 337-460-5520 for correct bail amount, charges and case numbers.",
+        "summary": "LAMARR JAMINE CASTILLE is charged with COMMENCEMENT OF TRIAL and a bond is set for $0.00"
+    },
+    {
+        "fullName": "JAQUON SHADERIK EDDIE",
+        "firstName": "JAQUON",
+        "middleName": "SHADERIK",
+        "lastName": "EDDIE",
+        "charges": "Resisting an officer, Driving under suspension, Expired License Plate",
+        "gender": "M",
+        "race": "BLACK",
+        "importantDates": "Booking Date:22/06/2022, Release Date:22/06/2022",
+        "additionalInfo": "Booking #:220596, Arresting Agency:DERIDDER POLICE DEPARTMENT, Bond:$200.00,Note: The charges and bail amounts may change after court appearances and may not be current. Bond companies and persons wishing to post bail should contact the Detention Center staff at 337-460-5520 for correct bail amount, charges and case numbers.",
+        "summary": "JAQUON SHADERIK EDDIE is charged with Resisting an officer, Driving under suspension, Expired License Plate and a bond is set for $200.00"
+    }
+]

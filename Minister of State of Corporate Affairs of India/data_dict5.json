@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Ms.Richa",
+        "fullName": "Kukreja",
+        "designation": "Director (Inspection & Investigation)",
+        "contactDetails": "011-23389263",
+        "emails": "richa.kukreja@mca.gov.in",
+        "summary": "Kukreja is the Director (Inspection & Investigation)"
+    },
+    {
+        "title": "Ms.",
+        "fullName": "P. Sheela",
+        "designation": "Joint Director",
+        "contactDetails": "011-23070083",
+        "emails": "pothula.sheela@mca.gov.in",
+        "summary": "P. Sheela is the Joint Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "A.K. Mahapatra",
+        "designation": "Joint Director",
+        "contactDetails": "011-23385285",
+        "emails": "ashok.mahapatra@mca.gov.in",
+        "summary": "A.K. Mahapatra is the Joint Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Gaurav",
+        "designation": "Deputy Director",
+        "contactDetails": "011-23070074",
+        "emails": "gaurav.1@mca.gov.in",
+        "summary": "Gaurav is the Deputy Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Vyomesh R Sheth",
+        "designation": "Deputy Director",
+        "contactDetails": "011-23073230",
+        "emails": "vyomesh.sheth@mca.gov.in",
+        "summary": "Vyomesh R Sheth is the Deputy Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Chandan Ji",
+        "designation": "Assistant Director",
+        "contactDetails": "011-23073230",
+        "emails": "chandan.ji@mca.gov.in",
+        "summary": "Chandan Ji is the Assistant Director"
+    },
+    {
+        "title": "Sh",
+        "fullName": "Indresh Singh Chauhan",
+        "designation": "Assistant Director",
+        "contactDetails": "011-23073230",
+        "emails": "indresh.chauhan@mca.gov.in",
+        "summary": "Indresh Singh Chauhan is the Assistant Director"
+    }
+]
